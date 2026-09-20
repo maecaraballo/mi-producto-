@@ -14,8 +14,9 @@ disconformes (demasiado dulce, poco real, todos iguales).
 
 Carolina (sufre las dos partes: falta de tiempo y disconformidad) y Gustavo
 (sufre la disconformidad; no cocina postres, así que el tiempo no es su
-problema). Lucía lo vive de costado como invitada. Patricia (a quien el sabor
-le importa poco) y Nélida (fuera del target) no lo sufren.
+problema). Lucía lo vive de costado como invitada. Nélida (fuera del target) no lo
+sufre. Patricia (compras para festejos de oficina) se descartó del set de
+personas: su contexto queda fuera del segmento de anfitriones en su casa.
 
 Persona faltante: alguien que sí cocina postres cuando puede, pero se queda
 sin tiempo. Se sugiere /generate-personas para cubrir ese hueco (no se corre ahora).

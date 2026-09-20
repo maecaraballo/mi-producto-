@@ -7,8 +7,13 @@ personas: carolina-benitez, gustavo-ferrari
 # Opportunity: postres para visitas que no empachan
 
 Quienes reciben visitas en su casa compran el postre en pastelería o
-supermercado porque no tienen tiempo de hacerlo, y lo que compran los deja
+supermercado porque no tienen el tiempo ni la destreza para hacerlo bien, y lo que compran los deja
 disconformes (demasiado dulce, poco real, todos iguales).
+
+Por qué ahora: según el estudio Consumer Insights Latam 2026 de Worldpanel by
+Numerator, 9 de cada 10 hogares argentinos buscan alternativas para reducir el
+azúcar (`secondary`: contexto general de una tendencia, no prueba de este
+problema; ver product/research/2026-09-20-2008-mercado-postres-para-visitas.md).
 
 ## Segment and personas
 

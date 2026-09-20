@@ -23,11 +23,20 @@ Ordenadas por impacto × incertidumbre: la primera es la próxima a atacar.
    pastelería o supermercado para recibir visitas sienten que son demasiado
    dulces, pesados o de sabor artificial, y eso les molesta lo suficiente como
    para buscar otra opción.
-2. [product] [value] Prefieren un postre casero encargado a mi emprendimiento
+2. [opportunity: postres-para-visitas] [value] Los anfitriones del target
+   compran el postre porque no tienen el tiempo ni la destreza para hacerlo
+   bien, no porque prefieran comprarlo, y lo que compran los deja
+   disconformes. Falsa si en 10 entrevistas fuera de mi círculo cercano menos
+   de 4 dicen ambas cosas sin que se los sugiera.
+3. [product] [value] Prefieren un postre casero encargado a mi emprendimiento
    antes que el de la pastelería que ya conocen o el de las emprendedoras
    caseras de Instagram, que hoy son bastantes.
-3. [product] [viability] Pagarían entre un 10% y un 30% más que en una
+4. [product] [viability] Pagarían entre un 10% y un 30% más que en una
    pastelería por un postre casero para 8 personas, y ese precio alcanza para
    cubrir ingredientes, tiempo y ganancia.
-4. [product] [value] Les resulta aceptable encargar con días de anticipación,
+5. [opportunity: postres-para-visitas] [viability] Un anfitrión al que le gustó
+   el postre vuelve a encargar para otra reunión, y cada pedido deja margen
+   positivo. Falsa si de mis primeros 10 clientes reales menos de 3 repiten en
+   60 días, o si el costo de hacer el postre supera lo que cobro.
+6. [product] [value] Les resulta aceptable encargar con días de anticipación,
    porque planifican lo que sirven cuando reciben visitas.

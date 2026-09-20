@@ -51,8 +51,9 @@ Referencias a product/overview.md (registro único, sin lista propia).
   buscar otra opción.
 - [product] [viability] #3: pagarían entre 10% y 30% más y eso cubre costos.
 - [opportunity: postres-para-visitas] [value] Los anfitriones del target
-  compran el postre porque no tienen tiempo de hacerlo, no porque prefieran
-  comprarlo, y lo que compran los deja disconformes.
+  compran el postre porque no tienen el tiempo ni la destreza para hacerlo
+  bien, no porque prefieran comprarlo, y lo que compran los deja
+  disconformes.
 - [opportunity: postres-para-visitas] [viability] Un anfitrión al que le gustó
   el postre vuelve a encargar para otra reunión, y cada pedido deja margen
   positivo.
@@ -66,7 +67,7 @@ preferirme frente a pastelería e Instagram— y #4 —encargar con anticipació
 |---|---|---|---|
 | [product] [viability] #3 y viabilidad de la recompra: costo por postre | Datos propios: calcular el costo de un postre para 8 personas (ingredientes, tiempo, packaging) | Precio mínimo viable; si el rango 10–30% deja margen | Semana 1 (propuesto) |
 | [product] [value] #1 y [opportunity] value: el problema existe | /research-market: reseñas públicas de pastelerías y emprendedoras (quejas de "muy dulce", "empalagoso", "artificial"), precios y competencia | Si el problema aparece fuera de mi círculo y a qué precio compite la alternativa | Semana 1–2 (propuesto) |
-| [opportunity] value: tiempo + disconformidad | /design-survey: cuántos anfitriones compran por falta de tiempo y qué les disgusta; incluir opt-in de entrevistas | Cuántos y cuán a menudo; a quiénes entrevistar | Semana 2 (propuesto) |
+| [opportunity] value: tiempo o destreza + disconformidad | /design-survey: cuántos anfitriones compran por falta de tiempo o de destreza y qué les disgusta; incluir opt-in de entrevistas | Cuántos y cuán a menudo; a quiénes entrevistar | Semana 2 (propuesto) |
 | [opportunity] value y [opportunity] viability: por qué y recompra | /design-interview: 10 entrevistas fuera de mi círculo cercano, priorizando a quien contradiga la creencia | Si sigo, cambio de segmento o replanteo el problema | Semana 3–4 (propuesto) |
 
 ## Candidate ideas (not evaluated)

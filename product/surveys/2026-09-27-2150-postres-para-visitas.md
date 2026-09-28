@@ -5,7 +5,7 @@
 - **Learning goals** (confirmados el 2026-09-27):
   1. **Por qué compran el postre en lugar de hacerlo.** Creencia `[opportunity: postres-para-visitas] [value]`: compran por falta de tiempo o de destreza, no por preferencia. **Decisión:** si entre quienes compran predominan motivos de preferencia ("comprado queda mejor", "no me gusta cocinar") sobre tiempo o destreza, replanteo la oportunidad antes de invertir en entrevistas sobre ese problema.
   2. **Qué les disgusta de lo que compran.** Creencia `[product] [value] #1`: lo que compran les resulta demasiado dulce, pesado o artificial. **Decisión:** si la mayoría queda conforme, o si el disgusto está en el precio o la presentación y no en el sabor, "sabor equilibrado" no alcanza como diferencial y hay que buscar otro.
-  3. **Cuánto gastan y con qué anticipación lo resuelven.** Creencias `[product] [viability] #4` (precio) y `[product] [value] #6` (encargo con días). **Decisión:** un precio de referencia real para comparar con el costo de un postre casero para 8, y si el modelo por encargo encaja o si hace falta poder resolver en 24 horas.
+  3. **Con qué anticipación lo resuelven y cuánto gastan hoy.** Creencia `[product] [value] #6` (aceptan encargar con días). **Decisión:** si el modelo por encargo encaja o si hace falta poder resolver en 24 horas. El gasto actual (Q6) es solo un **precio de referencia**: la creencia de viabilidad `[product] [viability] #4` (pagarían entre 10 % y 30 % más y eso cubre costos) **no se resuelve con esta encuesta**, sino con datos propios: el costo de un postre para 8 personas y una lista de precios actuales de pastelerías y emprendedoras.
 - **Target respondents:** adultos (18 o más) que en los últimos 3 meses recibieron visitas en su casa (el segmento del brief, sin rango etario estricto). Incluye a quienes hacen el postre ellos mismos: son quienes pueden contradecir el objetivo 1 (el perfil de Diego).
 - **Estimated length:** 2 de filtro, 9 a 11 preguntas según el camino, 3 de reclutamiento; ~5 min.
 
@@ -82,7 +82,7 @@
   > Goal: 2. "Nada, estuvo bien" es una salida legítima, y el dulzor compite con el precio, la presentación y la cantidad, para no inducirlo.
 
 - **Q6.** ¿Cuánto pagaste por ese postre, aproximadamente? En pesos, sin puntos. [número, opcional]
-  > Goal: 3
+  > Goal: 3 (precio de referencia; no mide disposición a pagar ni resuelve la viabilidad)
 
 - **Q6b.** ¿Para cuántas personas era? [opción única]
   - 2 a 4 / 5 a 8 / 9 a 12 / Más de 12

@@ -3,11 +3,11 @@
  * en Google Forms, con los saltos entre secciones, una planilla de
  * respuestas y una pestaña "Links" con un link precargado por canal.
  *
- * Fuente: product/surveys/2026-09-27-2100-postres-para-visitas.md
+ * Fuente: product/surveys/2026-09-27-2150-postres-para-visitas.md
  * Uso: script.google.com > Nuevo proyecto > pegar > ejecutar crearEncuesta
  */
 
-var CANALES = ['instagram', 'wa-estados', 'reenvio-hermana', 'reenvio-esposo'];
+var CANALES = ['instagram', 'wa-estados', 'reenvio-hermana', 'reenvio-esposo', 'trabajo'];
 
 function crearEncuesta() {
   var form = FormApp.create('Cómo resolvemos el postre cuando recibimos visitas');
@@ -48,7 +48,7 @@ function crearEncuesta() {
   // ---------- Sección B1: lo compró o encargó ----------
   var pbB1 = form.addPageBreakItem().setTitle('Sobre ese postre');
   form.addCheckboxItem()
-    .setTitle('¿Por qué lo compraste en vez de hacerlo? Elegí hasta 2.')
+    .setTitle('¿Qué hizo que esa vez el postre fuera comprado? Elegí hasta 2.')
     .setChoiceValues([
       'No tenía tiempo',
       'No me sale bien o no sé hacer postres',
@@ -97,7 +97,7 @@ function crearEncuesta() {
   // ---------- Sección B2: lo hizo en casa ----------
   var pbB2 = form.addPageBreakItem().setTitle('Sobre ese postre');
   form.addCheckboxItem()
-    .setTitle('¿Por qué lo hiciste en vez de comprarlo? Elegí hasta 2.')
+    .setTitle('¿Qué hizo que esa vez el postre fuera casero? Elegí hasta 2.')
     .setChoiceValues([
       'Me gusta cocinar',
       'Sale más rico que comprado',
@@ -136,16 +136,18 @@ function crearEncuesta() {
     .setTitle('Cuando reciben gente en tu casa, ¿quién suele decidir y conseguir el postre?')
     .setChoiceValues(['Yo', 'Lo compartimos con otra persona', 'Otra persona'])
     .setRequired(true);
-  form.addMultipleChoiceItem()
+  var r2 = form.addMultipleChoiceItem()
     .setTitle('¿Aceptarías una charla de 30 minutos (videollamada o café) para contarme cómo lo resolvés?')
-    .setChoiceValues(['Sí', 'No'])
     .setRequired(true);
-  form.addTextItem()
-    .setTitle('Si dijiste que sí, dejame tu nombre y un WhatsApp o mail.')
-    .setRequired(false);
   var canal = form.addTextItem()
     .setTitle('Código de invitación (no lo modifiques)')
     .setHelpText('Viene completado en el link. Solo sirve para saber por dónde llegó la encuesta.')
+    .setRequired(false);
+
+  // Contacto: sección propia, solo para quien aceptó la charla.
+  var pbR3 = form.addPageBreakItem().setTitle('¿Cómo te contacto?');
+  form.addTextItem()
+    .setTitle('Dejame tu nombre y un WhatsApp o mail.')
     .setRequired(false);
 
   // ---------- Saltos ----------
@@ -171,6 +173,10 @@ function crearEncuesta() {
     q2.createChoice('Lo trajo un invitado', pbC),
     q2.createChoice('No hubo postre', pbC),
     q2.createChoice('Otro', pbC)
+  ]);
+  r2.setChoices([
+    r2.createChoice('Sí', pbR3),
+    r2.createChoice('No', SUBMIT)
   ]);
   // Al terminar B1 (la sección anterior a pbB2) se salta B2 y va a C.
   pbB2.setGoToPage(pbC);

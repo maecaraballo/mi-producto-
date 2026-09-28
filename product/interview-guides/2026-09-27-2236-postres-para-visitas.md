@@ -1,0 +1,90 @@
+# Interview guide: cómo resuelven el postre quienes reciben visitas
+
+- **Oportunidad:** [postres-para-visitas](../opportunities/2026-09-20-1951-postres-para-visitas.md) (fila "/design-interview" de su agenda de research)
+- **Idioma:** español rioplatense (guía y entrevistas)
+- **Mode:** exploration. **No se muestra ni se menciona Carabalo Cakes** en ningún momento. Si preguntan en qué trabajás, lo contás recién después del cierre.
+- **Duration:** 40 min
+- **Learning goals** (confirmados el 2026-09-27; la encuesta [2026-09-27-2150](../surveys/2026-09-27-2150-postres-para-visitas.md) dice *cuántos*, esta guía busca el *por qué*):
+  1. **Por qué compran el postre en lugar de hacerlo.** Creencia `[opportunity: postres-para-visitas] [value]`: compran porque no tienen el tiempo ni la destreza, no porque lo prefieran. **Decisión:** sigo con este problema o replanteo la oportunidad.
+  2. **Qué les disgusta de lo que compran y qué hacen al respecto.** Creencias `[opportunity] [value]` y `[product] [value] #1`. La encuesta no puede ver si el disgusto les molesta lo suficiente como para actuar: cambiar de lugar, cocinar, gastar más. **Decisión:** si "sabor equilibrado" es un diferencial que mueve a comprar o solo una queja al pasar.
+  3. **Cómo eligen dónde comprar y por qué vuelven, o no.** Creencia `[opportunity] [viability]`: quien queda contento vuelve a encargar. **Decisión:** qué hace falta para ganar la recompra (confianza, previsibilidad, sabor, precio) y si el modelo por encargo encaja.
+- **Participant profile:** adultos (18 o más), CABA o GBA, que en la encuesta respondieron que recibieron visitas en su casa, que deciden el postre (R1 = "Yo" o "Lo compartimos") y que aceptaron la charla (R2 = "Sí"). Personas de referencia: Carolina y Gustavo (compran y quedan disconformes) y Diego (sabe hacer postres, compra cuando no le da el tiempo).
+
+## Antes de cada entrevista (2 min, sin la persona)
+
+Releé sus respuestas de la encuesta: de dónde salió el último postre (Q2), el motivo (Q3 o Q3b), qué no la convenció (Q5) y cuánto pagó (Q6). **No las vuelvas a preguntar**: usalas para elegir el episodio del que vas a hablar. Nunca le leas sus opciones en voz alta, porque eso le sugiere la respuesta.
+
+## Warm-up (5 min)
+
+Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respuestas correctas: me sirve que me cuentes lo que realmente hacés. ¿Te molesta si grabo para no tomar tantas notas?"
+
+1. Contame un poco de vos: ¿con quién vivís, a qué te dedicás, cómo es una semana típica?
+2. ¿Cada cuánto recibís gente en tu casa? ¿Quiénes suelen venir?
+
+## Main body
+
+### Objetivo 1 — Por qué compran (13 min)
+
+3. **Contame de la última vez que recibiste gente en tu casa.** ¿Qué era, quiénes vinieron?
+   - ¿Qué hubo de postre?
+   - ¿De dónde salió?
+4. **¿Cómo se decidió que fuera ese postre?** Recorré conmigo los días anteriores.
+   - ¿Cuándo empezaste a pensar en el postre?
+   - ¿Qué otras opciones barajaste?
+   - ¿Cómo terminó siendo comprado (o hecho en casa)?
+   - ¿Siempre es así, o hay veces que lo resolvés distinto?
+5. **Si esa vez lo hizo en casa:** Contame de la última vez que el postre fue comprado. ¿Qué pasó esa semana?
+   - ¿Qué cambió respecto de las veces que lo hacés vos?
+   - *(Si nunca lo compra: preguntá por la última vez que alguien llevó uno comprado a su casa, y usá ese episodio en el objetivo 2.)*
+
+> **Para quien entrevista.** Pone a prueba que compran por falta de tiempo o de destreza.
+> **Estamos equivocadas si** el motivo que aparece sin sugerirlo es preferencia ("comprado queda mejor", "no me interesa cocinar postres") o pura comodidad, y no falta de tiempo o de destreza.
+> **No preguntes** "¿por qué lo compraste en vez de hacerlo?": presenta lo casero como lo esperable y empuja a justificarse con "no tuve tiempo".
+
+### Objetivo 2 — Qué les disgusta y qué hacen al respecto (10 min)
+
+6. **¿Qué te pareció a vos ese postre comprado?**
+   - ¿Y qué dijeron tus invitados?
+   - ¿Sobró? ¿Qué pasó con lo que sobró?
+7. **Contame de alguna vez que un postre que serviste no funcionó.** ¿Qué pasó?
+   - ¿Qué hiciste la vez siguiente?
+   - ¿Probaste otro lugar, o volviste a hacerlo vos? ¿Cómo lo decidiste?
+
+> **Para quien entrevista.** No nombres el dulzor, la pesadez ni lo "artificial": tienen que aparecer solos. Si en la encuesta marcó "Muy dulce", no se lo recuerdes: esperá a ver si lo trae.
+> **Estamos equivocadas si** nadie menciona esos atributos por su cuenta, o si los menciona pero no cambió nada de lo que hace (sigue comprando lo mismo en el mismo lugar sin buscar otra cosa).
+
+### Objetivo 3 — Cómo eligen dónde y por qué vuelven (7 min)
+
+8. **¿Dónde compraste esa última vez, y por qué ahí?**
+   - Si no tiene un lugar fijo: ¿qué hace que ese día elijas uno u otro?
+   - ¿Alguna vez encargaste un postre con días de anticipación? ¿Cómo fue? ¿Le volviste a encargar?
+   - ¿Alguna vez dejaste de comprarle a alguien? ¿Qué pasó?
+9. **¿Cuánto pagaste esa vez?** *(Si ya lo dijo en la encuesta, pasá directo a la repregunta.)*
+   - ¿Te pareció caro, barato, lo justo? ¿Por qué?
+
+> **Para quien entrevista.** Preguntá por lo que pagaron, nunca por lo que pagarían. La plata va al final porque requiere confianza.
+> **Estamos equivocadas si** lo que los hace volver es solo precio o cercanía, y el sabor no aparece como motivo para quedarse o para irse.
+
+## Wrap-up (5 min)
+
+10. ¿Hay algo de este tema que no te pregunté y te parece importante?
+11. ¿Conocés a alguien que reciba gente seguido y que pueda charlar conmigo? Mejor si resuelve el postre distinto que vos.
+12. Gracias. *(Recién ahora, si preguntan, podés contar en qué estás trabajando.)*
+
+**Repreguntas comodín:** ¿y después qué pasó? · ¿por qué? · ¿me das un ejemplo? · ¿cada cuánto pasa? · silencio de 3 segundos.
+
+## Recruitment plan
+
+- **Fuente única:** quienes aceptaron la charla en la encuesta [2026-09-27-2150-postres-para-visitas](../surveys/2026-09-27-2150-postres-para-visitas.md). Los canales por los que llegan están en su sección **Distribution**: no se repiten acá. Decisión del 2026-09-27: no se suman otros canales.
+- **Orden de contacto**, según sus respuestas:
+  1. **Quienes contradicen el objetivo 1:** hicieron el postre (Q2 = "Lo hice yo") o compraron por "Comprado queda mejor" o "No me gusta cocinar" (Q3).
+  2. **Quienes quedaron conformes** con lo que compraron (Q4 = "Bastante" o "Muy conforme").
+  3. **Quienes confirman la creencia:** sin tiempo o sin destreza, y disconformes.
+- **Screener:** ya lo resolvió la encuesta. Queda afuera quien:
+  - no recibió visitas en su casa en los últimos 3 meses (S2 = "No");
+  - no decide el postre (R1 = "Otra persona");
+  - es familiar directo mío o amiga cercana (se chequea a mano al ver el contacto: sirven solo para el piloto);
+  - trabaja en pastelería o gastronomía (se pregunta al coordinar la charla).
+- **Cuántas:** todas las que acepten y pasen el filtro. Con 12 personas alcanzables espero entre **3 y 5 entrevistas**.
+- **Límite que hay que declarar:** es menos de lo habitual (5 a 8 por segmento) y no alcanza para llegar a saturación. La creencia de valor registrada pide "10 entrevistas fuera de mi círculo cercano" para decidir. Con 3 a 5, las entrevistas dan **señales**, no un veredicto sobre esa creencia. Si una sola entrevista contradice con claridad, igual vale como alerta para replantear.
+- **Formato:** videollamada o café, 40 min, grabado con permiso; notas de 5 minutos justo después (perfil, episodio contado, frases textuales, qué creencia confirmó o contradijo).

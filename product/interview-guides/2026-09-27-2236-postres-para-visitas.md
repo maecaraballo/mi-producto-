@@ -28,6 +28,7 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
 3. **Contame de la última vez que recibiste gente en tu casa.** ¿Qué era, quiénes vinieron?
    - ¿Qué hubo de postre?
    - ¿De dónde salió?
+   - ¿Y las veces anteriores, qué hubo? *(Registra qué postres sirven de verdad, sin pedir opiniones: insumo para una carta futura, no para esta decisión.)*
 4. **¿Cómo se decidió que fuera ese postre?** Recorré conmigo los días anteriores.
    - ¿Cuándo empezaste a pensar en el postre?
    - ¿Qué otras opciones barajaste?
@@ -87,4 +88,4 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
   - trabaja en pastelería o gastronomía (se pregunta al coordinar la charla).
 - **Cuántas:** todas las que acepten y pasen el filtro. Con 12 personas alcanzables espero entre **3 y 5 entrevistas**.
 - **Límite que hay que declarar:** es menos de lo habitual (5 a 8 por segmento) y no alcanza para llegar a saturación. La creencia de valor registrada pide "10 entrevistas fuera de mi círculo cercano" para decidir. Con 3 a 5, las entrevistas dan **señales**, no un veredicto sobre esa creencia. Si una sola entrevista contradice con claridad, igual vale como alerta para replantear.
-- **Formato:** videollamada o café, 40 min, grabado con permiso; notas de 5 minutos justo después (perfil, episodio contado, frases textuales, qué creencia confirmó o contradijo).
+- **Formato:** videollamada o café, 40 min, grabado con permiso; notas de 5 minutos justo después (perfil, episodio contado, postres mencionados, frases textuales, qué creencia confirmó o contradijo).

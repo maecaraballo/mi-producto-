@@ -2,8 +2,8 @@
 
 > "Quiero llegar con algo rico y lindo a la mesa, no terminar con una torta empalagosa que queda en la heladera hasta el jueves."
 
-- **Tipo de persona:** primaria
 - **Rol:** empleada administrativa, mamá de dos hijos (10 y 13 años); recibe a la familia y a amigos casi todos los fines de semana
+- **Type:** primary
 - **Rango de edad:** 35–44
 - **Ubicación:** urbana, Buenos Aires y Gran Buenos Aires
 - **Alfabetización tecnológica:** alta

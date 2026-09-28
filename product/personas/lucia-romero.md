@@ -2,8 +2,8 @@
 
 > "Si un postre me hace pedir la receta, ya ganó."
 
-- **Tipo de persona:** secundaria
 - **Rol:** diseñadora gráfica freelance; invitada habitual a reuniones y cumpleaños de amigos y familia
+- **Type:** secondary
 - **Rango de edad:** 30–39
 - **Ubicación:** urbana, Buenos Aires
 - **Alfabetización tecnológica:** alta

@@ -2,8 +2,8 @@
 
 > "Yo me quedo con lo de siempre; lo que conozco no me hace mal."
 
-- **Tipo de persona:** negativa
 - **Rol:** jubilada; recibe a sus hijos y nietos los domingos y come casi siempre lo mismo
+- **Type:** negative
 - **Rango de edad:** 65–74
 - **Ubicación:** urbana, Buenos Aires (barrio residencial)
 - **Alfabetización tecnológica:** baja

@@ -2,8 +2,8 @@
 
 > "Prefiero pagar un poco más y no equivocarme, con algo que ya conozco."
 
-- **Tipo de persona:** primaria
 - **Rol:** jefe de logística en una empresa mediana; hace cenas y asados con amigos y se ocupa de la parrilla, no del postre
+- **Type:** primary
 - **Rango de edad:** 50–59
 - **Ubicación:** urbana, Buenos Aires
 - **Alfabetización tecnológica:** baja

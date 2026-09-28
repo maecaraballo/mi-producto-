@@ -34,8 +34,8 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
    - ¿Qué otras opciones barajaste?
    - ¿Cómo terminó siendo comprado (o hecho en casa)?
    - ¿Siempre es así, o hay veces que lo resolvés distinto?
-5. **Si esa vez lo hizo en casa:** Contame de la última vez que el postre fue comprado. ¿Qué pasó esa semana?
-   - ¿Qué cambió respecto de las veces que lo hacés vos?
+5. **Solo si todavía no apareció un episodio de compra** (si ya salió en las repreguntas de 3 o 4, tomá ese): Contame de la última vez que el postre fue comprado. ¿Qué pasó esa semana?
+   - ¿Cuándo supiste que esa vez no ibas a cocinar? ¿Qué hiciste entre ese momento y el día?
    - *(Si nunca lo compra: preguntá por la última vez que alguien llevó uno comprado a su casa, y usá ese episodio en el objetivo 2.)*
 
 > **Para quien entrevista.** Pone a prueba que compran por falta de tiempo o de destreza.
@@ -49,6 +49,7 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
    - ¿Sobró? ¿Qué pasó con lo que sobró?
 7. **Contame de alguna vez que un postre que serviste no funcionó.** ¿Qué pasó?
    - ¿Qué hiciste la vez siguiente?
+   - ¿Y con uno comprado o encargado, te pasó alguna vez? *(Si el episodio que contó fue casero.)*
    - ¿Probaste otro lugar, o volviste a hacerlo vos? ¿Cómo lo decidiste?
 
 > **Para quien entrevista.** No nombres el dulzor, la pesadez ni lo "artificial": tienen que aparecer solos. Si en la encuesta marcó "Muy dulce", no se lo recuerdes: esperá a ver si lo trae.
@@ -89,3 +90,22 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
 - **Cuántas:** todas las que acepten y pasen el filtro. Con 12 personas alcanzables espero entre **3 y 5 entrevistas**.
 - **Límite que hay que declarar:** es menos de lo habitual (5 a 8 por segmento) y no alcanza para llegar a saturación. La creencia de valor registrada pide "10 entrevistas fuera de mi círculo cercano" para decidir. Con 3 a 5, las entrevistas dan **señales**, no un veredicto sobre esa creencia. Si una sola entrevista contradice con claridad, igual vale como alerta para replantear.
 - **Formato:** videollamada o café, 40 min, grabado con permiso; notas de 5 minutos justo después (perfil, episodio contado, postres mencionados, frases textuales, qué creencia confirmó o contradijo).
+
+## Pretest notes
+
+**2026-09-27 — `/test-interview-guide` contra la persona sintética Diego Salvatierra** (primary; sabe hacer postres y compra cuando le toca guardia: el perfil con más chances de romper la guía).
+
+Qué cambió:
+
+| Defecto | Evidencia en la corrida | Cambio |
+|---|---|---|
+| Falta una repregunta (pregunta 5) | Dijo que organiza todo con un mes de anticipación y que "cuando tengo guardia, compro", pero terminó comprando lo que había a las 8 de la mañana. La repregunta "¿Qué cambió respecto de las veces que lo hacés vos?" solo sacó "Que tuve guardia", y el dato clave del objetivo 3 (si encaja el encargo) se perdió. | Reemplazada por "¿Cuándo supiste que esa vez no ibas a cocinar? ¿Qué hiciste entre ese momento y el día?". |
+| Hueco de cobertura (pregunta 7, objetivo 2) | "Un postre que serviste no funcionó" lo llevó a una base de cheesecake quemada, un fracaso casero. Para quien cocina, el objetivo 2 (lo comprado) quedaba sin cubrir. | Nueva repregunta: "¿Y con uno comprado o encargado, te pasó alguna vez?". |
+| Pregunta redundante (pregunta 5) | Las repreguntas de 3 ("¿Y las veces anteriores?") y de 4 ("¿Siempre es así?") ya sacaron la tarta comprada; ante la pregunta 5 respondió "lo que te conté". | La pregunta 5 se usa solo si todavía no apareció un episodio de compra. De paso corrige la sobrecarga de tiempo del objetivo 1 (~15 min contra 13) con quien cocina. |
+
+Qué quedó igual, a propósito:
+
+- **"¿Probaste otro lugar…?"** terminó en "compro donde haya". Con la nueva repregunta de la pregunta 7 y con la pregunta 8, que cubre a quien no tiene un lugar fijo, alcanza.
+- **"¿Cuánto pagaste?"** chocó con la encuesta ("lo puse en la encuesta"). La guía ya indica pasar directo a la repregunta si el dato está en la encuesta: el problema fue de ejecución, no de diseño.
+
+**Límite:** este pretest valida la estructura, no la recepción. Una persona sintética es más articulada y colaboradora que una real, así que no detecta confusión, respuestas a la defensiva ni preguntas que no prenden. Que el pretest salga bien significa que la guía está bien armada, no que esté validada. No se guardó transcript: no es evidencia.

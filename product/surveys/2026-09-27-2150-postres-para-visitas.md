@@ -11,7 +11,7 @@
 
 ## Lo que este instrumento puede y no puede averiguar
 
-**Advertencia de tamaño:** el alcance total es de unas 18 personas (ver Distribution), así que espero entre 10 y 14 respuestas. **Con ese n, la encuesta no puede dar "cuántos"**: todo resultado es direccional y se reporta como conteo ("7 de 11"), nunca como porcentaje. Su valor real en esta etapa es:
+**Advertencia de tamaño:** el alcance total es de 12 personas como máximo (ver Distribution), así que espero entre 7 y 10 respuestas. **Con ese n, la encuesta no puede dar "cuántos"**: todo resultado es direccional y se reporta como conteo ("7 de 11"), nunca como porcentaje. Su valor real en esta etapa es:
 
 1. Mostrar si los patrones van a favor o en contra de las creencias.
 2. Afinar las opciones y el vocabulario de las entrevistas.
@@ -131,18 +131,18 @@
 
 | Channel | Who it reaches | Approx. reach | Link |
 |---|---|---|---|
-| Historia de Instagram (@ de María Eugenia) | Seguidores: conocidos de 30–45, CABA. **Canal propio:** sobrerrepresenta a quien me conoce y sabe que hago postres; puede responder "para quedar bien". | 12 personas en total entre los cuatro primeros canales (desglose: unknown) | `?canal=instagram` |
+| Historia de Instagram (@ de María Eugenia) | Seguidores: conocidos de 30–45, CABA. **Canal propio:** sobrerrepresenta a quien me conoce y sabe que hago postres; puede responder "para quedar bien". | 12 personas como máximo entre los cinco canales (desglose por canal: unknown) | `?canal=instagram` |
 | Estados de WhatsApp de María Eugenia | Contactos: familia, amigos, algo de 45+. **Canal propio**, mismo sesgo. | (incluido en las 12) | `?canal=wa-estados` |
 | Reenvío de la hermana de María Eugenia | Sus amigas y grupos: segundo grado, fuera de mi círculo cercano. Sesgo: mujeres de su edad y su barrio. | (incluido en las 12) | `?canal=reenvio-hermana` |
 | Reenvío del esposo de María Eugenia | Sus amigos: más hombres y más de 45–60 (perfil de Gustavo). Sesgo: su grupo social. | (incluido en las 12) | `?canal=reenvio-esposo` |
-| Compañeros de trabajo, fuera del equipo directo (chat interno) | Adultos de 30–60 con trabajo formal y poco tiempo (perfil de Carolina y Diego). Sesgo: clase media bancarizada, CABA; me conocen, pero no por los postres. | 6 personas | `?canal=trabajo` |
+| Compañeros de trabajo, fuera del equipo directo (chat interno) | Adultos de 30–60 con trabajo formal y poco tiempo (perfil de Carolina y Diego). Sesgo: clase media bancarizada, CABA; me conocen, pero no por los postres. | (incluido en las 12) | `?canal=trabajo` |
 
 En Google Forms, cada link lleva precargado el campo "Código de invitación" con el canal. Ver `2026-09-27-2150-postres-para-visitas-google-forms.gs`.
 
-- **Target n:** 12 respuestas que pasen el filtro, en total. **El alcance no alcanza para 30 por segmento, ni siquiera para 30 en total**: con 18 personas, incluso una tasa de respuesta del 80 % da unas 14. Por eso no hay target por segmento: todo resultado es direccional y se lee como conteo.
+- **Target n:** 8 respuestas que pasen el filtro, en total. **El alcance no alcanza para 30 por segmento, ni siquiera para 30 en total**: con 12 personas como máximo, incluso una tasa de respuesta alta da entre 7 y 10. Por eso no hay target por segmento: todo resultado es direccional y se lee como conteo. Con este alcance, la encuesta funciona sobre todo como filtro y reclutamiento para las entrevistas, más una línea de base comparable entre quienes respondan.
 - **Qué haría falta para medir:** un canal que llegue a gente que no me conoce, con cientos de miembros (por ejemplo, un grupo de vecinos de Flores). Queda anotado como opción si quiero pasar de direccional a "cuántos".
 - **First review:** miércoles 30 de septiembre de 2026, a la noche (48 h después de publicar el lunes 28). Qué mirar: respuestas por canal, cuántas caen en el filtro, si hay abandonos a mitad y cuántas personas aceptan la entrevista.
-- **Closes:** abierta hasta 12 respuestas válidas o hasta el miércoles 7 de octubre de 2026, lo que llegue primero.
+- **Closes:** abierta hasta 8 respuestas válidas o hasta el miércoles 7 de octubre de 2026, lo que llegue primero.
 
 **Mensaje para difundir** (el mismo en todos los canales, cambia solo el link; no nombra el emprendimiento):
 

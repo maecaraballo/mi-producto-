@@ -39,7 +39,7 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
    - *(Si nunca lo compra: preguntá por la última vez que alguien llevó uno comprado a su casa, y usá ese episodio en el objetivo 2.)*
 
 > **Para quien entrevista.** Pone a prueba que compran por falta de tiempo o de destreza.
-> **Estamos equivocadas si** el motivo que aparece sin sugerirlo es preferencia ("comprado queda mejor", "no me interesa cocinar postres") o pura comodidad, y no falta de tiempo o de destreza.
+> **Estamos equivocadas si** cuenta que esa semana tenía tiempo y sabía hacerlo, y aun así compró porque "comprado queda mejor" o porque cocinar postres no le interesa. También si quien sabe cocinar cuenta que, cuando no le da el tiempo, prefiere no servir postre antes que comprar uno.
 > **No preguntes** "¿por qué lo compraste en vez de hacerlo?": presenta lo casero como lo esperable y empuja a justificarse con "no tuve tiempo".
 
 ### Objetivo 2 — Qué les disgusta y qué hacen al respecto (10 min)
@@ -53,7 +53,7 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
    - ¿Probaste otro lugar, o volviste a hacerlo vos? ¿Cómo lo decidiste?
 
 > **Para quien entrevista.** No nombres el dulzor, la pesadez ni lo "artificial": tienen que aparecer solos. Si en la encuesta marcó "Muy dulce", no se lo recuerdes: esperá a ver si lo trae.
-> **Estamos equivocadas si** nadie menciona esos atributos por su cuenta, o si los menciona pero no cambió nada de lo que hace (sigue comprando lo mismo en el mismo lugar sin buscar otra cosa).
+> **Estamos equivocadas si** describe el postre sin mencionar por su cuenta el dulzor, la pesadez o lo artificial, o si lo menciona pero cuenta que la vez siguiente volvió a comprar lo mismo en el mismo lugar sin buscar otra cosa.
 
 ### Objetivo 3 — Cómo eligen dónde y por qué vuelven (7 min)
 
@@ -65,7 +65,7 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
    - ¿Te pareció caro, barato, lo justo? ¿Por qué?
 
 > **Para quien entrevista.** Preguntá por lo que pagaron, nunca por lo que pagarían. La plata va al final porque requiere confianza.
-> **Estamos equivocadas si** lo que los hace volver es solo precio o cercanía, y el sabor no aparece como motivo para quedarse o para irse.
+> **Estamos equivocadas si** cuenta que vuelve a la misma pastelería aunque no le guste, porque le queda de paso o siempre tiene algo listo, o que dejó de encargarle a alguien bueno solo por el precio: la recompra depende de la comodidad o el precio, no del sabor.
 
 ## Wrap-up (5 min)
 
@@ -88,6 +88,7 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
   - es familiar directo mío o amiga cercana (se chequea a mano al ver el contacto: sirven solo para el piloto);
   - trabaja en pastelería o gastronomía (se pregunta al coordinar la charla).
 - **Cuántas:** todas las que acepten y pasen el filtro. Con 12 personas alcanzables espero entre **3 y 5 entrevistas**.
+- **Cuándo dejar de entrevistar:** cuando dos entrevistas seguidas no traen nada nuevo para ninguno de los tres objetivos. Con este alcance, lo más probable es quedarse sin candidatos antes de llegar a ese punto.
 - **Límite que hay que declarar:** es menos de lo habitual (5 a 8 por segmento) y no alcanza para llegar a saturación. La creencia de valor registrada pide "10 entrevistas fuera de mi círculo cercano" para decidir. Con 3 a 5, las entrevistas dan **señales**, no un veredicto sobre esa creencia. Si una sola entrevista contradice con claridad, igual vale como alerta para replantear.
 - **Formato:** videollamada o café, 40 min, grabado con permiso; notas de 5 minutos justo después (perfil, episodio contado, postres mencionados, frases textuales, qué creencia confirmó o contradijo).
 

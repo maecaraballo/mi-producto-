@@ -1,6 +1,6 @@
 ---
 status: framed
-segment: Adultos de 30 a 60 años que reciben visitas seguido en su casa y compran el postre (paga el anfitrión; lo comen sus invitados)
+segment: Adultos que reciben visitas seguido en su casa y compran el postre, sin rango etario estricto (paga el anfitrión; lo comen sus invitados)
 personas: carolina-benitez, gustavo-ferrari, diego-salvatierra
 ---
 
@@ -26,8 +26,10 @@ Segundo filtro (personas contra la oportunidad), revisado el 2026-09-27:
 | Lo sufre y decide y paga, pero puede contradecir | Diego Salvatierra (primary, nuevo) | Pastelero experto por hobby; compra solo cuando la guardia le cae el fin de semana. Le sobra destreza: si prefiere cocinar o no encargar por precio, la parte de "destreza" de la creencia cae para él. Planifica con un mes de anticipación, así que también pone a prueba el encargo. |
 | Lo sufre pero no decide ni paga | Lucía Romero (secundaria) | Lo vive como invitada: come el postre empalagoso y no se queja. No compra, pero recomienda: influye en qué eligen los anfitriones la próxima vez. |
 | Decide o paga sin sufrirlo en primera persona | Nadie en el set | En hogares con pareja, a veces quien encarga no es quien elige (Gustavo le pregunta a su esposa). No amerita persona propia: se cubre con una pregunta de la encuesta (R1) y de la guía. |
-| Fuera de la oportunidad | Nélida Paz (negativa) | Tiene más de 60, restricciones alimentarias múltiples (sin azúcar, sin gluten) y no compra por canales digitales. Su problema es poder comer, no que el postre sea empalagoso. |
+| Fuera de la oportunidad | Nélida Paz (negativa) | Restricciones alimentarias múltiples (sin azúcar, sin gluten) y no compra por canales digitales. Su problema es poder comer, no que el postre sea empalagoso. Queda afuera por eso, no por su edad. |
 | Fuera de la oportunidad | Patricia (descartada antes) | Compra para festejos de oficina: no recibe en su casa, otro segmento y otra decisión de compra. |
+
+Cambio del 2026-09-27: el segmento deja de tener rango etario (antes, 30 a 60). Lo que define a quien sufre el problema es la conducta (recibe en su casa y compra el postre); la edad no excluye a nadie.
 
 Persona que faltaba: alguien que cocina postres cuando puede pero se queda sin tiempo. Se generó con /generate-personas Diego Salvatierra (`product/personas/diego-salvatierra.md`), acotado a esta oportunidad.
 

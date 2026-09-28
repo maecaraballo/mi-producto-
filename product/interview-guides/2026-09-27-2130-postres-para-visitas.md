@@ -8,7 +8,7 @@
   1. **Por qué compran el postre en lugar de hacerlo.** Creencia `[opportunity: postres-para-visitas] [value]`: compran por falta de tiempo o de destreza, no por preferencia. La encuesta dice cuántos marcan cada motivo; la entrevista dice qué hay detrás. **Decisión:** si sigo con este problema o lo replanteo.
   2. **Qué les disgusta de lo que compran y qué hacen al respecto.** Creencias `[opportunity] [value]` y `[product] [value] #1`. La encuesta no puede ver si el disgusto les molesta lo suficiente como para actuar (cambiar de lugar, cocinar, gastar más). **Decisión:** si "sabor equilibrado" es un diferencial por el que se mueven o solo una queja al pasar.
   3. **Cómo eligen dónde comprar y por qué vuelven (o no).** Creencia `[opportunity] [viability]`: quien queda contento vuelve a encargar. **Decisión:** qué hace falta para ganar la recompra (confianza, previsibilidad, sabor) y si el modelo por encargo sirve.
-- **Participant profile:** adultos de 30 a 60 años, CABA o GBA, que recibieron visitas en su casa al menos 2 veces en los últimos 3 meses y son quienes deciden el postre (R1 = "Yo" o "Lo compartimos"). Al menos 3 de cada 10 tienen que ser personas que suelen hacer el postre ellas mismas.
+- **Participant profile:** adultos de cualquier edad (18 o más), CABA o GBA, que recibieron visitas en su casa al menos 2 veces en los últimos 3 meses y son quienes deciden el postre (R1 = "Yo" o "Lo compartimos"). Al menos 3 de cada 10 tienen que ser personas que suelen hacer el postre ellas mismas.
 
 ## Warm-up (5 min)
 
@@ -75,7 +75,7 @@ Apertura: "Estoy investigando cómo organizamos la comida cuando recibimos gente
   3. Quienes confirman la creencia (sin tiempo o sin destreza, y disconformes).
 - **Fuente secundaria:** referidos de la pregunta 10 y conocidos de segundo grado (amigas de mi hermana, amigos de mi esposo). No se entrevista a familia directa ni a amigos cercanos: sirven solo para el piloto.
 - **Screener** (si el contacto no viene de la encuesta), queda afuera si:
-  - tiene menos de 30 o más de 60 años;
+  - es menor de 18 años;
   - recibió visitas en su casa menos de 2 veces en los últimos 3 meses;
   - no es quien decide el postre;
   - trabaja en pastelería o gastronomía;

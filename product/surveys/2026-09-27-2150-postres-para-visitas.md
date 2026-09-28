@@ -6,7 +6,7 @@
   1. **Por qué compran el postre en lugar de hacerlo.** Creencia `[opportunity: postres-para-visitas] [value]`: compran por falta de tiempo o de destreza, no por preferencia. **Decisión:** si entre quienes compran predominan motivos de preferencia ("comprado queda mejor", "no me gusta cocinar") sobre tiempo o destreza, replanteo la oportunidad antes de invertir en entrevistas sobre ese problema.
   2. **Qué les disgusta de lo que compran.** Creencia `[product] [value] #1`: lo que compran les resulta demasiado dulce, pesado o artificial. **Decisión:** si la mayoría queda conforme, o si el disgusto está en el precio o la presentación y no en el sabor, "sabor equilibrado" no alcanza como diferencial y hay que buscar otro.
   3. **Cuánto gastan y con qué anticipación lo resuelven.** Creencias `[product] [viability] #4` (precio) y `[product] [value] #6` (encargo con días). **Decisión:** un precio de referencia real para comparar con el costo de un postre casero para 8, y si el modelo por encargo encaja o si hace falta poder resolver en 24 horas.
-- **Target respondents:** adultos de 30 a 60 años que en los últimos 3 meses recibieron visitas en su casa (el segmento del brief). Incluye a quienes hacen el postre ellos mismos: son quienes pueden contradecir el objetivo 1 (el perfil de Diego).
+- **Target respondents:** adultos (18 o más) que en los últimos 3 meses recibieron visitas en su casa (el segmento del brief, sin rango etario estricto). Incluye a quienes hacen el postre ellos mismos: son quienes pueden contradecir el objetivo 1 (el perfil de Diego).
 - **Estimated length:** 2 de filtro, 9 a 11 preguntas según el camino, 3 de reclutamiento; ~5 min.
 
 ## Lo que este instrumento puede y no puede averiguar
@@ -28,8 +28,8 @@
 ## Screening
 
 - **S1.** ¿Qué edad tenés? [opción única]
-  - Menos de 30 / 30 a 39 / 40 a 49 / 50 a 60 / Más de 60
-  - → descalifica si "Menos de 30" o "Más de 60"
+  - Menos de 18 / 18 a 29 / 30 a 44 / 45 a 59 / 60 o más
+  - → descalifica solo si "Menos de 18". El resto sigue: la edad sirve para comparar grupos, no para filtrar (el filtro real es S2).
 - **S2.** En los últimos 3 meses, ¿recibiste visitas en tu casa (familia, amigos, un cumpleaños, una comida)? [opción única]
   - Sí / No
   - → descalifica si "No"
@@ -131,11 +131,11 @@
 
 | Channel | Who it reaches | Approx. reach | Link |
 |---|---|---|---|
-| Historia de Instagram (@ de María Eugenia) | Seguidores: conocidos de 30–45, CABA. **Canal propio:** sobrerrepresenta a quien me conoce y sabe que hago postres; puede responder "para quedar bien". | 12 personas como máximo entre los cinco canales (desglose por canal: unknown) | `?canal=instagram` |
-| Estados de WhatsApp de María Eugenia | Contactos: familia, amigos, algo de 45+. **Canal propio**, mismo sesgo. | (incluido en las 12) | `?canal=wa-estados` |
+| Historia de Instagram (@ de María Eugenia) | Seguidores: conocidos, mayoría de 30–45, CABA. **Canal propio:** sobrerrepresenta a quien me conoce y sabe que hago postres; puede responder "para quedar bien". | 12 personas como máximo entre los cinco canales (desglose por canal: unknown) | `?canal=instagram` |
+| Estados de WhatsApp de María Eugenia | Contactos: familia, amigos, más variedad de edades que Instagram. **Canal propio**, mismo sesgo. | (incluido en las 12) | `?canal=wa-estados` |
 | Reenvío de la hermana de María Eugenia | Sus amigas y grupos: segundo grado, fuera de mi círculo cercano. Sesgo: mujeres de su edad y su barrio. | (incluido en las 12) | `?canal=reenvio-hermana` |
-| Reenvío del esposo de María Eugenia | Sus amigos: más hombres y más de 45–60 (perfil de Gustavo). Sesgo: su grupo social. | (incluido en las 12) | `?canal=reenvio-esposo` |
-| Compañeros de trabajo, fuera del equipo directo (chat interno) | Adultos de 30–60 con trabajo formal y poco tiempo (perfil de Carolina y Diego). Sesgo: clase media bancarizada, CABA; me conocen, pero no por los postres. | (incluido en las 12) | `?canal=trabajo` |
+| Reenvío del esposo de María Eugenia | Sus amigos: más hombres y de mayor edad (perfil de Gustavo). Sesgo: su grupo social. | (incluido en las 12) | `?canal=reenvio-esposo` |
+| Compañeros de trabajo, fuera del equipo directo (chat interno) | Adultos con trabajo formal y poco tiempo (perfil de Carolina y Diego). Sesgo: clase media bancarizada, CABA; me conocen, pero no por los postres. | (incluido en las 12) | `?canal=trabajo` |
 
 En Google Forms, cada link lleva precargado el campo "Código de invitación" con el canal. Ver `2026-09-27-2150-postres-para-visitas-google-forms.gs`.
 
@@ -146,4 +146,4 @@ En Google Forms, cada link lleva precargado el campo "Código de invitación" co
 
 **Mensaje para difundir** (el mismo en todos los canales, cambia solo el link; no nombra el emprendimiento):
 
-> Estoy haciendo una investigación sobre cómo resolvemos la comida cuando recibimos gente en casa. Son 5 minutos, es anónima, y me ayudás un montón. Si la podés reenviar a alguien de 30 a 60 que reciba visitas, mejor todavía 🙏 [link]
+> Estoy haciendo una investigación sobre cómo resolvemos la comida cuando recibimos gente en casa. Son 5 minutos, es anónima, y me ayudás un montón. Si la podés reenviar a alguien que reciba visitas en su casa, mejor todavía 🙏 [link]

@@ -155,11 +155,11 @@ function crearEncuesta() {
   var CONTINUE = FormApp.PageNavigationType.CONTINUE;
 
   s1.setChoices([
-    s1.createChoice('Menos de 30', SUBMIT),
-    s1.createChoice('30 a 39', CONTINUE),
-    s1.createChoice('40 a 49', CONTINUE),
-    s1.createChoice('50 a 60', CONTINUE),
-    s1.createChoice('Más de 60', SUBMIT)
+    s1.createChoice('Menos de 18', SUBMIT),
+    s1.createChoice('18 a 29', CONTINUE),
+    s1.createChoice('30 a 44', CONTINUE),
+    s1.createChoice('45 a 59', CONTINUE),
+    s1.createChoice('60 o más', CONTINUE)
   ]);
   s2.setChoices([
     s2.createChoice('Sí', CONTINUE),

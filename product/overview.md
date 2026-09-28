@@ -9,17 +9,21 @@ o supermercados.
 
 ## Para quién / Who it's for
 
-Adultos de 30 a 60 años que reciben visitas en su casa (cumpleaños, reuniones,
+Adultos que reciben visitas en su casa (cumpleaños, reuniones,
 almuerzos o cenas) y hoy resuelven el postre comprando en una pastelería o en
 el supermercado. Buscan un postre rico, no infantil ni empalagoso, que se vea
 cuidado. No apunta a chicos ni a personas mayores con muchas restricciones
 alimentarias.
 
+El segmento se define por la conducta (recibir en casa y comprar el postre), no por
+la edad: sin rango etario estricto desde el 2026-09-27. La edad se registra para
+comparar grupos, no para excluir.
+
 ## Creencias no verificadas / Unverified beliefs
 
 Ordenadas por impacto × incertidumbre: la primera es la próxima a atacar.
 
-1. [product] [value] Los anfitriones de 30 a 60 años que compran postre en
+1. [product] [value] Los anfitriones que compran postre en
    pastelería o supermercado para recibir visitas sienten que son demasiado
    dulces, pesados o de sabor artificial, y eso les molesta lo suficiente como
    para buscar otra opción.

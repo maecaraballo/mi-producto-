@@ -1,7 +1,7 @@
 ---
 status: framed
 segment: Adultos de 30 a 60 años que reciben visitas seguido en su casa y compran el postre (paga el anfitrión; lo comen sus invitados)
-personas: carolina-benitez, gustavo-ferrari
+personas: carolina-benitez, gustavo-ferrari, marcela-quiroga
 ---
 
 # Opportunity: postres para visitas que no empachan
@@ -17,14 +17,19 @@ problema; ver product/research/2026-09-20-2008-mercado-postres-para-visitas.md).
 
 ## Segment and personas
 
-Carolina (sufre las dos partes: falta de tiempo y disconformidad) y Gustavo
-(sufre la disconformidad; no cocina postres, así que el tiempo no es su
-problema). Lucía lo vive de costado como invitada. Nélida (fuera del target) no lo
-sufre. Patricia (compras para festejos de oficina) se descartó del set de
-personas: su contexto queda fuera del segmento de anfitriones en su casa.
+Segundo filtro (personas contra la oportunidad), revisado el 2026-09-27:
 
-Persona faltante: alguien que sí cocina postres cuando puede, pero se queda
-sin tiempo. Se sugiere /generate-personas para cubrir ese hueco (no se corre ahora).
+| Rol frente al problema | Persona | Por qué |
+|---|---|---|
+| Lo sufre y decide y paga | Carolina Benítez (primaria) | Le faltan tiempo y ganas de cocinar, y lo que compra la deja disconforme (sobra torta, "todos iguales"). Es la creencia completa. |
+| Lo sufre y decide y paga | Gustavo Ferrari (primaria) | Sufre la disconformidad (postres que quedan a medias). No cocina: el tiempo no es su motivo, es la destreza. |
+| Lo sufre y decide y paga, pero puede contradecir | Marcela Quiroga (primaria, nueva) | Sabe hacer postres y compra solo cuando se queda sin tiempo. Si prefiere cocinar antes que pagar, la parte de "destreza" de la creencia cae para ella. |
+| Lo sufre pero no decide ni paga | Lucía Romero (secundaria) | Lo vive como invitada: come el postre empalagoso y no se queja. No compra, pero recomienda: influye en qué eligen los anfitriones la próxima vez. |
+| Decide o paga sin sufrirlo en primera persona | Nadie en el set | En hogares con pareja, a veces quien encarga no es quien elige (Gustavo le pregunta a su esposa). No amerita persona propia: se cubre con una pregunta de la encuesta (R1) y de la guía. |
+| Fuera de la oportunidad | Nélida Paz (negativa) | Tiene más de 60, restricciones alimentarias múltiples (sin azúcar, sin gluten) y no compra por canales digitales. Su problema es poder comer, no que el postre sea empalagoso. |
+| Fuera de la oportunidad | Patricia (descartada antes) | Compra para festejos de oficina: no recibe en su casa, otro segmento y otra decisión de compra. |
+
+Persona que faltaba: alguien que cocina postres cuando puede pero se queda sin tiempo. Se generó Marcela Quiroga (`product/personas/marcela-quiroga.md`), acotada a esta oportunidad.
 
 ## Signals
 
@@ -33,7 +38,7 @@ sin tiempo. Se sugiere /generate-personas para cubrir ese hueco (no se corre aho
 | Los postres de pastelería y supermercado son demasiado dulces, poco reales y todos iguales | unverified | María Eugenia, como consumidora |
 | Hoy compran el postre en pastelería o supermercado para recibir visitas | unverified | María Eugenia |
 | Hay bastantes emprendedoras caseras de postres en Instagram | unverified | María Eugenia |
-| Carolina y Gustavo viven el problema (postres que pesan, improvisar a último momento) | synthetic | product/personas/ |
+| Carolina y Gustavo viven el problema (postres que pesan, improvisar a último momento); Marcela lo vive solo en semanas sin tiempo | synthetic | product/personas/ |
 
 Sin señales real, survey ni secondary todavía.
 

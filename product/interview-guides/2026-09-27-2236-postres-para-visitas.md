@@ -34,8 +34,8 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
    - ¿Qué otras opciones barajaste?
    - ¿Cómo terminó siendo comprado (o hecho en casa)?
    - ¿Siempre es así, o hay veces que lo resolvés distinto?
-5. **Solo si todavía no apareció un episodio de compra** (si ya salió en las repreguntas de 3 o 4, tomá ese): Contame de la última vez que el postre fue comprado. ¿Qué pasó esa semana?
-   - ¿Cuándo supiste que esa vez no ibas a cocinar? ¿Qué hiciste entre ese momento y el día?
+   - **Cuando aparezca una compra (en la 3, la 4 o la 5):** ¿Cuándo supiste que esa vez no ibas a cocinar? ¿Qué hiciste entre ese momento y el día?
+5. **Solo si todavía no apareció un episodio de compra** (si ya salió en las repreguntas de 3 o 4, tomá ese): Contame de la última vez que el postre fue comprado. ¿Qué pasó esa semana? *(Acá va la repregunta de la anticipación de la pregunta 4.)*
    - *(Si nunca lo compra: preguntá por la última vez que alguien llevó uno comprado a su casa, y usá ese episodio en el objetivo 2.)*
 
 > **Para quien entrevista.** Pone a prueba que compran por falta de tiempo o de destreza.
@@ -59,7 +59,7 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
 
 8. **¿Dónde compraste esa última vez, y por qué ahí?**
    - Si no tiene un lugar fijo: ¿qué hace que ese día elijas uno u otro?
-   - ¿Alguna vez encargaste un postre con días de anticipación? ¿Cómo fue? ¿Le volviste a encargar?
+   - ¿Alguna vez encargaste un postre con días de anticipación? ¿Cómo fue? ¿Le volviste a encargar? *(Si ya lo contó en la 7, preguntá solo: ¿qué te hizo volver o no volver?)*
    - ¿Alguna vez dejaste de comprarle a alguien? ¿Qué pasó?
 9. **¿Cuánto pagaste esa vez?** *(Si ya lo dijo en la encuesta, pasá directo a la repregunta.)*
    - ¿Te pareció caro, barato, lo justo? ¿Por qué?
@@ -107,5 +107,12 @@ Qué quedó igual, a propósito:
 
 - **"¿Probaste otro lugar…?"** terminó en "compro donde haya". Con la nueva repregunta de la pregunta 7 y con la pregunta 8, que cubre a quien no tiene un lugar fijo, alcanza.
 - **"¿Cuánto pagaste?"** chocó con la encuesta ("lo puse en la encuesta"). La guía ya indica pasar directo a la repregunta si el dato está en la encuesta: el problema fue de ejecución, no de diseño.
+
+**2026-09-27 — segunda corrida, misma persona, guía corregida.** Los tres cambios funcionaron: la pregunta 5 se salteó y el objetivo 1 entró en tiempo, el objetivo 2 llegó a un episodio comprado, y Diego trajo el dulzor y la crema vegetal por su cuenta. Aparecieron dos defectos nuevos, introducidos por la primera ronda:
+
+| Defecto | Evidencia en la corrida | Cambio |
+|---|---|---|
+| Repregunta perdida (anticipación) | La repregunta "¿Cuándo supiste que esa vez no ibas a cocinar?" había quedado dentro de la pregunta 5, que ahora se saltea. Nunca se hizo, y el dato del mes de anticipación volvió a quedar sin explorar. | La repregunta pasó a la pregunta 4 con la indicación "cuando aparezca una compra (en la 3, la 4 o la 5)"; la pregunta 5 conserva solo el pedido del episodio. |
+| Pregunta redundante (pregunta 8) | "¿Alguna vez encargaste…?" recibió "lo que te conté": la nueva repregunta de la 7 ya había sacado los encargos de Instagram. | Indicación: si ya lo contó en la 7, preguntar solo "¿qué te hizo volver o no volver?" (sirve al objetivo 3, la recompra). |
 
 **Límite:** este pretest valida la estructura, no la recepción. Una persona sintética es más articulada y colaboradora que una real, así que no detecta confusión, respuestas a la defensiva ni preguntas que no prenden. Que el pretest salga bien significa que la guía está bien armada, no que esté validada. No se guardó transcript: no es evidencia.

@@ -31,6 +31,7 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
    - ¿Y las veces anteriores, qué hubo? *(Registra qué postres sirven de verdad, sin pedir opiniones: insumo para una carta futura, no para esta decisión.)*
 4. **¿Cómo se decidió que fuera ese postre?** Recorré conmigo los días anteriores.
    - ¿Cuándo empezaste a pensar en el postre?
+   - ¿Y eso fue antes o después de resolver el resto de la comida? *(Ver si el postre queda último sin sugerirlo; señal de la entrevista sintética con Carolina, a verificar.)*
    - ¿Qué otras opciones barajaste?
    - ¿Cómo terminó siendo comprado (o hecho en casa)?
    - ¿Siempre es así, o hay veces que lo resolvés distinto?
@@ -61,6 +62,7 @@ Apertura: "Gracias por responder la encuesta y por hacerte el rato. No hay respu
    - Si no tiene un lugar fijo: ¿qué hace que ese día elijas uno u otro?
    - ¿Alguna vez encargaste un postre con días de anticipación? ¿Cómo fue? ¿Le volviste a encargar? *(Si ya lo contó en la 7, preguntá solo: ¿qué te hizo volver o no volver?)*
    - ¿Alguna vez dejaste de comprarle a alguien? ¿Qué pasó?
+   - Después de eso, ¿cómo elegiste dónde comprar la vez siguiente? *(Ver qué pesa para volver, confianza o sabor, sin darle las opciones; señal de la entrevista sintética con Carolina, a verificar.)*
 9. **¿Cuánto pagaste esa vez?** *(Si ya lo dijo en la encuesta, pasá directo a la repregunta.)*
    - ¿Te pareció caro, barato, lo justo? ¿Por qué?
 

@@ -8,7 +8,7 @@ chosen: encargo-con-anticipacion
 
 ## What the evidence says now
 
-- **No hay evidencia real todavía** (ni respuestas de encuesta ni entrevistas con personas reales). Lo que hay es `unverified` (tus observaciones como consumidora, en el brief), `synthetic` (personas, la entrevista con Carolina, y el set de ensayo en `notas/ensayo/`) y `secondary` (`product/research/2026-09-20-2008-mercado-postres-para-visitas.md`).
+- **Casi no hay evidencia real.** Llegaron 7 respuestas reales a la encuesta (6 analizadas, en `product/insights/2026-10-04-1730-encuesta-postres-para-visitas.md`), todas de tu familia y por un solo canal; 5 de 6 hicieron el postre y solo 1 lo compró, así que **no mueven ninguna celda de este archivo**. No hay entrevistas reales. Lo demás es `unverified` (tus observaciones como consumidora, en el brief), `synthetic` (personas, la entrevista con Carolina, y el set de ensayo en `notas/ensayo/`) y `secondary` (`product/research/2026-09-20-2008-mercado-postres-para-visitas.md`).
 - Ninguna creencia de la oportunidad está marcada `contradicted`, así que se puede explorar. Tampoco ninguna `confirmed`: el set de ensayo es inventado y **no se anotó nada** en `product/overview.md`.
 - Lo que el ensayo sugiere, y hay que verificar con gente real: la confiabilidad y la puntualidad pesan más que el sabor para volver (7 de 12 entrevistas sintéticas); 14 de 25 respuestas sintéticas deciden el postre con un día o menos; el dulzor es una queja moderada. Ver `notas/ensayo/analisis-encuesta.md` y `notas/ensayo/insights-entrevistas.md`.
 - Del research de mercado (`secondary`): las pastelerías de CABA ya operan con plazo (48 horas a 7 días), así que encargar con anticipación es una convención de la oferta; no prueba que tu segmento lo acepte.

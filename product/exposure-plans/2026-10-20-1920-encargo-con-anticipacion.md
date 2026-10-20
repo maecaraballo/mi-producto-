@@ -17,6 +17,7 @@ Nos equivocamos si, con 30 o más personas alcanzadas que no son familia directa
 
 ## Nivel 1: La carta con reserva por WhatsApp
 
+- **Historias:** Reservar desde la carta; Saber si mi fecha entra (respuesta en 24 h y regla de menos de 3 días)
 - **Qué se revela:** la carta de 5 postres para 8 personas (Lemon pie, Tiramisú, Torta de zanahoria, Torta de chocolate Matilda y Brownie), la regla "3 a 5 días de anticipación" y el link de reserva con mensaje prellenado. Sigue oculto: precio, cobro, confirmación activa y entrega.
 - **Creencia:** las personas que compran postre para recibir visitas aceptan encargar con 3 a 5 días de anticipación a alguien que no conocen (#6).
 - **Audiencia:** vecinos de Flores y contactos que no son familia directa, sin invitar a nadie en particular. Mínimo 30 personas distintas alcanzadas.
@@ -29,6 +30,7 @@ Nos equivocamos si, con 30 o más personas alcanzadas que no son familia directa
 
 ## Nivel 2: La carta con precios (incluye el Nivel 1)
 
+- **Historias:** Ver el precio antes de reservar
 - **Qué se revela:** el precio de cada postre en la carta, visible antes de reservar. Sigue oculto: confirmación activa y entrega.
 - **Creencia:** viendo el precio de entrada, siguen reservando (#4).
 - **Audiencia:** una nueva publicación para el mismo tipo de público que el Nivel 1, sin repetir a quienes ya reservaron.
@@ -40,7 +42,8 @@ Nos equivocamos si, con 30 o más personas alcanzadas que no son familia directa
 
 ## Nivel 3: Confirmación activa y entrega (incluye los niveles 1 y 2)
 
-- **Qué se revela:** la respuesta con el cupo en 24 horas, el mensaje de confirmación 24 horas antes con la franja pactada, y la entrega o el retiro. Sigue oculto: seguimiento posterior y reorden.
+- **Historias:** Confirmación activa antes de la entrega; Saber si mi fecha entra (cupo, franja y entrega)
+- **Qué se revela:** el mensaje de confirmación 24 horas antes con la franja pactada, y la entrega o el retiro. La respuesta con el cupo en 24 horas ya forma parte del Nivel 1. Sigue oculto: seguimiento posterior y reorden.
 - **Creencia:** cuando reciben una confirmación activa y el postre llega en la franja pactada, el encargo deja de dar miedo y no necesitan preguntar si va a llegar.
 - **Audiencia:** hasta 3 personas con una reserva válida de los niveles 1 y 2, sin ser familia directa.
 - **Duración:** 2 a 3 semanas, según las fechas de sus reuniones.
@@ -51,6 +54,7 @@ Nos equivocamos si, con 30 o más personas alcanzadas que no son familia directa
 
 ## Nivel 4: Reencargo (incluye los niveles 1, 2 y 3)
 
+- **Historias:** Volver a encargar
 - **Qué se revela:** un mensaje de seguimiento al día siguiente de la entrega, con una pregunta abierta y la carta con precios y el link de reserva.
 - **Creencia:** quien recibió el postre en el horario pactado vuelve a encargar antes que volver a la pastelería (#7).
 - **Audiencia:** todos los clientes que recibieron un postre en los niveles anteriores, hasta llegar a 10 clientes reales.

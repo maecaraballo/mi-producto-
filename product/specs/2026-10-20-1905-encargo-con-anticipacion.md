@@ -27,7 +27,7 @@ Quedan afuera: Nélida Paz (restricciones alimentarias múltiples) y quien compr
 Camino de Carolina, con la feature insertada donde hoy se rompe (el postre queda último y encargar da miedo).
 
 1. **Trigger** — Confirma quién viene a su casa el fin de semana (jueves o viernes hoy; con esta feature, 3 a 5 días antes) y se acuerda del postre.
-2. Ve la carta de Carabalo Cakes en un estado o grupo de WhatsApp, o la recibe de alguien. Son pocos postres, todos para 8, sin precio de entrada (el precio es un tema abierto, #4).
+2. Ve la carta de Carabalo Cakes en un estado o grupo de WhatsApp, o la recibe de alguien. Son pocos postres, todos para 8. En la prueba T1 la carta no llevaba precio; a partir del Nivel 2 del plan de exposición la carta muestra el precio de cada postre antes de reservar, porque quien compra quiere saberlo de entrada (#4).
 3. Toca el link de reserva y se abre un WhatsApp con el mensaje prellenado: postre, fecha de la reunión y entrega o retiro. Completa tres datos.
 4. Recibe una respuesta que le dice si su fecha entra en el cupo y cuándo. *(Acá se rompe hoy la confianza: la emprendedora que no confirma.)*
 5. 24 horas antes de la fecha recibe una confirmación activa con el horario de entrega o retiro, sin tener que preguntar.
@@ -50,16 +50,33 @@ Acceptance criteria:
 
 Traces to: entrevista sintética con Carolina (el postre "queda último"); `product/tests/materials/t1-encargo-con-anticipacion/` (mensaje prellenado y regla de reserva válida).
 
+### Ver el precio antes de reservar
+As Gustavo, I want ver el precio de cada postre en la carta antes de reservar, so that no me estrese sin saber cuánto va a costar ni si alcanza para todos.
+
+Acceptance criteria:
+- [ ] Cada postre de la carta muestra su precio en pesos, para 8 personas.
+- [ ] La carta aclara qué incluye el precio y si la entrega tiene costo aparte.
+- [ ] El precio de la carta es el que se cobra: no cambia al confirmar el pedido.
+- [ ] Quien pregunta el precio por WhatsApp recibe el de la carta, no "te lo cuento al confirmar".
+- [ ] Caso borde: si el precio cambia, la carta se actualiza y las reservas ya hechas mantienen el precio con que se reservaron.
+
+Traces to: persona Gustavo ("Se estresa cuando no sabe cuánto va a costar"); mensaje real R1 de T1 (preguntó el precio del Brownie y no completó la reserva); observación de María Eugenia como compradora (`unverified`). Condición previa: tener calculado el costo por postre.
+
+Nivel del plan: 2.
+
 ### Saber si mi fecha entra
-As Gustavo, I want saber rápido si mi fecha entra y qué pasa después, so that no me quede esperando una respuesta que no llega.
+As Gustavo, I want saber rápido si mi fecha entra, y qué hacer si mi reunión es en menos de 3 días, so that no me quede esperando una respuesta que no llega ni descubra tarde que no llegan.
 
 Acceptance criteria:
 - [ ] Toda persona que reserva recibe respuesta dentro de las 24 horas, que es el plazo prometido en la prueba.
 - [ ] La respuesta dice una de tres cosas: entra, no entra, o entra con otra franja. Nunca queda en silencio.
-- [ ] La respuesta no promete algo que no se puede cumplir (entrega o cobro) mientras la producción y la habilitación estén sin resolver.
-- [ ] Caso borde: si el cupo está lleno, la respuesta ofrece la fecha disponible más cercana dentro de los 5 días.
+- [ ] Un pedido para menos de 3 días recibe una respuesta que explica la regla, no se toma como reserva y se anota igual con la fecha pedida, para medir cuántos chocan con el plazo.
+- [ ] La respuesta no promete entrega ni cobra mientras la producción y la habilitación estén sin resolver.
+- [ ] Caso borde: un pedido para exactamente 3 días se toma como válido; si el cupo está lleno, la respuesta ofrece la fecha disponible más cercana dentro de los 5 días.
 
-Traces to: persona Gustavo ("Evitar sorpresas desagradables", torta que llegó aplastada sin aviso); entrevista con Carolina ("no me contestaba").
+Traces to: persona Gustavo ("Evitar sorpresas desagradables"); entrevista con Carolina ("no me contestaba"); `product/tests/materials/t1-encargo-con-anticipacion/mensajes.md` y la regla de decisión de T1 (3 o más pedidos con fecha cercana indican que el plazo es la barrera).
+
+Nivel del plan: 1 (respuesta en 24 h y regla de menos de 3 días); 3 (respuesta con cupo, franja y entrega).
 
 ### Confirmación activa antes de la entrega
 As Carolina, I want recibir una confirmación con el horario 24 horas antes, so that no tenga que escribir a preguntar si mi postre va a llegar.
@@ -72,16 +89,23 @@ Acceptance criteria:
 
 Traces to: entrevista con Carolina (el episodio del cumple: "me respondió a las diez de la noche que había tenido un problema con el horno").
 
-### Fecha a menos de 3 días
-As Carolina (o Gustavo), I want que me digan con claridad qué pasa si mi reunión es en menos de 3 días, so that sepa si me conviene esperar o comprar en otro lado.
+Nivel del plan: 3.
+
+### Volver a encargar
+As Carolina, I want recibir al día siguiente de la entrega un mensaje con la carta y el link para reservar, so that repetir me cueste un toque si el postre me gustó.
 
 Acceptance criteria:
-- [ ] Un pedido para menos de 3 días recibe una respuesta que explica la regla y no lo toma como reserva.
-- [ ] El pedido se anota igual, con la fecha pedida, para medir cuántos chocan con el plazo.
-- [ ] La respuesta no cobra ni promete entrega.
-- [ ] Caso borde: un pedido para exactamente 3 días se toma como válido.
+- [ ] Al día siguiente de la entrega se manda un mensaje con una pregunta abierta sobre el postre.
+- [ ] El mensaje incluye la carta con precios y el link de reserva.
+- [ ] Si la clienta contesta, recibe respuesta el mismo día.
+- [ ] No se le escribe más de una vez por entrega.
+- [ ] Caso borde: si el postre llegó tarde o hubo un reclamo, el mensaje es una disculpa y una pregunta, no una invitación a reencargar.
 
-Traces to: `product/tests/materials/t1-encargo-con-anticipacion/mensajes.md` y la regla de decisión de T1 (3 o más pedidos con fecha cercana indican que el plazo es la barrera).
+Traces to: creencia #7 de `product/overview.md`; persona Carolina ("Le pregunta a las invitadas qué les pareció, como forma de saber si vale repetir").
+
+Nivel del plan: 4.
+
+zo es la barrera).
 
 ## Hypothesis
 
@@ -106,7 +130,7 @@ Tested in: `product/tests/2026-10-12-1115-postres-para-visitas.md`
 
 ## Assumptions
 
-Referencias a `product/overview.md` (registro único). Las creencias de feature se registraron el 2026-10-20.
+Referencias a `product/overview.md` (registro único). Esta spec no escribió nada en el registro.
 
 Registradas:
 - [product] [value] #6 Les resulta aceptable encargar con días de anticipación, porque planifican lo que sirven cuando reciben visitas. — **no probada** (T1 sin resultado)
@@ -124,4 +148,4 @@ No registrada (por ahora): [usability] el pedido se cierra en una sola conversac
 
 - **Resuelto (confirmado por María Eugenia, 2026-10-20):** la carta publicada fue de 5 postres y el plazo de respuesta prometido fue de 24 h. Los archivos `carta.md` (4 postres, 48 h), `textos-publicacion.md` y `mensajes.md` del repo quedaron desactualizados respecto de lo publicado; conviene alinearlos.
 - **Canal:** T1 se diseñó para el grupo de vecinos y los estados de WhatsApp; llegó un pedido por Instagram. Hay que decidir si Instagram es canal o no, porque cambia cómo se cuenta el alcance.
-- **Precio:** fuera de esta spec a propósito; es el siguiente paso del concierge.
+- **Precio:** T1 lo dejó afuera a propósito. Decisión de María Eugenia (2026-10-20): la carta debe mostrar el precio antes de reservar, a partir del Nivel 2 del plan. Requiere calcular antes el costo por postre. Ojo al leer T1: sin precio, parte del público puede haber perdido el interés, así que un resultado bajo no alcanza para descartar A1.

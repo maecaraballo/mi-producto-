@@ -44,3 +44,17 @@ Ordenadas por impacto × incertidumbre: la primera es la próxima a atacar.
    60 días, o si el costo de hacer el postre supera lo que cobro.
 6. [product] [value] Les resulta aceptable encargar con días de anticipación,
    porque planifican lo que sirven cuando reciben visitas.
+7. [feature: encargo-con-anticipacion] [value] Un anfitrión que recibió el
+   postre en el horario pactado, tras una confirmación activa 24 horas antes,
+   vuelve a encargar antes que volver a la pastelería. Falsa si, entre mis
+   primeros 10 clientes reales, quienes no repiten citan en su mayoría el
+   sabor o el precio y no la entrega.
+8. [feature: encargo-con-anticipacion] [feasibility] Puedo producir y entregar
+   N postres para 8 por fin de semana, en casa, en la franja pactada (N: a
+   definir por mí según mi capacidad real). Falsa si en 4 fines de semana de
+   prueba alguno sale tarde o el tiempo de producción deja el margen por
+   debajo del cálculo de costo. Owner: María Eugenia.
+9. [feature: encargo-con-anticipacion] [feasibility] Puedo vender postres
+   caseros cumpliendo la habilitación que exija CABA. Pendiente de averiguar;
+   se replantea si el requisito cuesta más de lo que deja el margen. Owner:
+   María Eugenia.

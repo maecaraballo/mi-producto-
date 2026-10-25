@@ -15,7 +15,7 @@ Adultos que reciben visitas en su casa y hoy compran el postre (segmento de `pro
 - La unidad es la persona (no el chat ni el pedido). Quien reserva es quien inicia; no hay participantes en este nivel.
 - Quedan afuera del denominador: familia directa. Las amigas cercanas **sí** entran, pero se cuentan aparte porque el plan las trata distinto (ver reconciliación).
 - Tamaño: se fija al cerrar la publicación y no se cambia después. Hoy: desconocido (T1 no registró alcance).
-- **Decisión pendiente (canal):** WhatsApp permite saber quién vio un estado o abrió un mensaje directo, pero **no** quién leyó un mensaje en un grupo. Para que el denominador sea observable, la audiencia se define solo por los canales donde se puede verificar la vista (estados, difusión, mensajes directos). Si se publica en el grupo de vecinos, el alcance será una estimación y se marca `assumption`. Instagram: mientras no se decida si es canal, sus reservas se registran pero no cuentan en el numerador.
+- **Decidido (María Eugenia, 2026-10-25) — canal:** WhatsApp permite saber quién vio un estado o abrió un mensaje directo, pero **no** quién leyó un mensaje en un grupo. Para que el denominador sea observable, la audiencia se define solo por estados y mensajes directos; el grupo de vecinos queda afuera de este nivel. Instagram: las reservas que lleguen por ahí se **registran pero no cuentan en el numerador** hasta que se decida si es canal.
 
 ## Expected frequency
 Para el **problema** (resolver el postre cuando se reciben visitas): Carolina recibe casi todos los fines de semana; Gustavo, cada tanto (fuente: personas `synthetic`). No hay evidencia real de frecuencia (T1 sin cierre, encuesta n=6 solo familia). **`assumption`:** el segmento recibe visitas con postre entre 1 y 2 veces por mes → la ventana de retención es **mensual**, no semanal. En el Nivel 1 la retención no se mide (ver más abajo).
@@ -24,7 +24,7 @@ Para el **problema** (resolver el postre cuando se reciben visitas): Carolina re
 - **Signal:** la persona abrió la carta (vio el estado, o abrió —con tilde azul— el mensaje directo/difusión que la contiene).
 - **Expanded definition:** cuenta cada persona distinta de la audiencia que cumple la señal durante los 4 días del nivel (más la única extensión de 3 días, si se usa). Se verifica con la lista de "vistos" del estado y los acuses de lectura. No cuenta ver el chat de un grupo (no es observable).
 - **Calculation:** personas que abrieron la carta / personas de la audiencia contactadas, en 4 días (+3).
-- **Target:** ≥ 60% de la audiencia contactada · **Why:** es un supuesto (`assumption`) sobre lo que un estado de WhatsApp suele alcanzar; no hay dato propio. Su función real es la regla de alcance del plan: **al menos 30 personas distintas deben abrir la carta**, o el nivel es no concluyente. Se fija el piso en 30 personas, que sí viene del plan.
+- **Target:** ≥ 60% de la audiencia contactada (aceptado por María Eugenia, 2026-10-25) · **Why:** es un supuesto (`assumption`) sobre lo que un estado de WhatsApp suele alcanzar; no hay dato propio. Su función real es la regla de alcance del plan: **al menos 30 personas distintas deben abrir la carta**, o el nivel es no concluyente. Se fija el piso en 30 personas, que sí viene del plan.
 - **Events needed:** `carta_publicada` (canal, fecha, audiencia contactada), `carta_vista` (persona, canal, fecha).
 
 ## Activation
@@ -48,7 +48,7 @@ Para el **problema** (resolver el postre cuando se reciben visitas): Carolina re
 - **Instrument:** pregunta de un mensaje por WhatsApp, enviada a toda persona que hizo una reserva válida, justo después de recibir la respuesta de cupo · **Question:** "¿Qué tan fácil fue pedirlo? Del 1 al 5." · **When it shows:** una sola vez, apenas se contesta la reserva (o dentro de las 24 h siguientes) · **Cut:** 4 o más.
 - **Expanded definition:** mide la experiencia de **reservar** (lo único que el Nivel 1 revela), no la del postre. Se mide solo a quienes reservaron: con 3 a 10 respuestas posibles, es una lectura cualitativa.
 - **Calculation:** personas con 4 o más / audiencia contactada (la tasa de respuesta y el porcentaje entre quienes respondieron se reportan aparte).
-- **Target:** ≥ 2 de cada 3 de las personas que reservaron responden 4 o más · **Why:** el plan no fija criterio de satisfacción para este nivel; es un umbral **informativo, no una condición de avance** (propuesto, `assumption`).
+- **Target:** ≥ 2 de cada 3 de las personas que reservaron responden 4 o más (aceptado por María Eugenia, 2026-10-25) · **Why:** el plan no fija criterio de satisfacción para este nivel; es un umbral **informativo, no una condición de avance** (propuesto, `assumption`).
 - **Events needed:** `encuesta_enviada` (persona, fecha), `encuesta_respondida` (persona, puntaje).
 
 ## Business metrics

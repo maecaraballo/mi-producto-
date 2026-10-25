@@ -113,6 +113,8 @@ We believe anfitriones que reciben visitas en su casa y hoy compran el postre (C
 
 We're wrong if, en una publicación que alcance a 30 o más personas distintas que no son familia directa, menos de 3 de ellas mandan una reserva válida (postre + fecha de una reunión real a 3 días o más + entrega o retiro), o si 3 o más piden una fecha a menos de 3 días. Si 2 o más de las 3 son amigas cercanas, la señal es débil y no cuenta como confirmación.
 
+Metrics in: `product/metrics/2026-10-25-1115-encargo-con-anticipacion.md` (Nivel 1)
+
 ## Alternatives considered
 
 Explored in: `product/solutions/2026-10-04-1702-postres-para-visitas.md`
